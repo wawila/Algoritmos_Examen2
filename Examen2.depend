@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1498169833 source:c:\users\david chavarria\documents\unitec\analisis de algoritmos\examen2\examen2\examen2\src\test.cpp
+	"Test.h"
+
+1498169845 c:\users\david chavarria\documents\unitec\analisis de algoritmos\examen2\examen2\examen2\include\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1498174165 source:c:\users\david chavarria\documents\unitec\analisis de algoritmos\examen2\examen2\examen2\main.cpp
+	"Test.h"
+	<iostream>
+	<map>
+
